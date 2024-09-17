@@ -1,2 +1,7 @@
-# i want to generate 10 OTP numbers
+from random import *
 
+# import random 
+
+print(dir(random))
+
+# help(random)

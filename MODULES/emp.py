@@ -1,3 +1,5 @@
 ##Movies  Module and math
 
-import Movies
+import Movies, math
+print(dir(Movies))
+print(dir(math))
