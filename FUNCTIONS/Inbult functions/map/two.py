@@ -8,6 +8,7 @@ marks = [35,15,10]
 obj = map(addplus,marks)
 print(type(obj))
 print(list(obj))
+print(obj)
 
 # <class 'map'>
 # [36, 16, 11] 
