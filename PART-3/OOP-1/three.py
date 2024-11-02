@@ -1,6 +1,8 @@
 class Account:
+    '''Account class is created'''
     min_bal = 500
     def open_Account(self):
+        
        print('Account created succssfully')
     @classmethod   
     def m2(cls):
